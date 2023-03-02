@@ -1,0 +1,8 @@
+app > build แก้บรรทัด 50 minSdkVersion เป็น 20
+
+flutter pub add webview_flutter
+flutter pub add image_picker
+
+app > src > main > android เพิ่ม android:usesCleartextTraffic="true">
+
+ app > build แก้บรรทัด 29 compileSdkVersion 32

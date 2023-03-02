@@ -1,0 +1,30 @@
+[
+    {
+        "title":"Quiz 1 A+B = ?",
+        "choice": [
+            {"ID":1, "value":"A+B"},
+            {"ID":2, "value":"A-B"}
+        ],
+        "answer":1
+    },
+    {
+        "title":"Quiz 1 A-B = ?",
+        "choice": [
+            {"ID":1, "value":"A+B"},
+            {"ID":2, "value":"A-B"},
+            {"ID":3, "value":"A/B"}
+        ],
+        "answer":2
+    },
+    {
+        "title":"Quiz 1 A/B = ?",
+        "choice": [
+            {"ID":1, "value":"A+B"},
+            {"ID":2, "value":"A-B"},
+            {"ID":3, "value":"A/B"},
+            {"ID":3, "value":"A*B"},
+            {"ID":3, "value":"A%B"}
+        ],
+        "answer":2
+    }
+]
